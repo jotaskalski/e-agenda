@@ -1,0 +1,15 @@
+.app-navbar{
+    background-color: cadetblue;
+}
+
+.app-navbar-brand{
+    background: linear-gradient(
+        to-right,
+        rgba(white) 0%,
+        rgba(124, 167, 168) 100%)
+         !important;
+        background-clip: text;
+        -webkit-background-clip: text !important;
+        -webkit-text-fill-color: transparent;
+   
+}
